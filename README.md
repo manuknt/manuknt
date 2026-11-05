@@ -1,63 +1,152 @@
-# Olá, eu sou o Manuel Ntanfumu 👋
+# 👋 Olá, eu sou Manuel Ntanfumu!
 
-**Analista de Dados | Analytics Engineer Jr**
+<h3 align="center">Analista de Dados Jr | Analytics Engineer Jr</h3>
 
-Transformo dados brutos em tabelas confiáveis que os times de negócio conseguem usar sem adivinhar.
-
-Trabalho com SQL, Python, modelagem dimensional e qualidade de dados, usando dbt Core e BigQuery no Google Cloud. Busco minha primeira oportunidade como **Analista de Dados, Analytics Engineer ou Engenheiro de Dados Jr**, de preferência em fintechs, bancos ou empresas orientadas a dados, em São Paulo (híbrido ou remoto).
-
-📍 São Paulo, Brasil
-🎓 Análise e Desenvolvimento de Sistemas (UNICSUL, 2026)
-
-
-
-## 🛠️ Stack
-
-<p>
-  <img src="https://img.shields.io/badge/SQL-336791?style=plastic&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=plastic&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/dbt_Core-FF694B?style=plastic&logo=dbt&logoColor=white" alt="dbt Core" />
-  <img src="https://img.shields.io/badge/BigQuery-669DF6?style=plastic&logo=googlebigquery&logoColor=white" alt="BigQuery" />
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=plastic&logo=googlecloud&logoColor=white" alt="Google Cloud" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=plastic&logo=powerbi&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=plastic&logo=looker&logoColor=white" alt="Looker Studio" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white" alt="Git" />
+<p align="center">
+  Transformo dados brutos em informações confiáveis que ajudam empresas a tomar decisões melhores.
 </p>
 
+<p align="center">
+  <a href="https://github.com/manntanfumu0">
+    <img src="https://img.shields.io/badge/GitHub-Manuel_Ntanfumu-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <a href="mailto:manuelntanfumu0@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
+---
+
+## 👨‍💻 Sobre mim
+
+Sou profissional de tecnologia em transição para a área de Dados, com foco em **Análise de Dados, Analytics Engineering e Engenharia de Dados**.
+
+Trabalho com SQL, Python, análise exploratória, modelagem dimensional e qualidade de dados. Tenho experiência prática na construção de pipelines ETL/ELT, transformação de dados e desenvolvimento de dashboards.
+
+Gosto de trabalhar com dados desde a extração até a entrega de informações estruturadas e úteis para o negócio.
+
+📍 São Paulo, Brasil  
+🎓 Análise e Desenvolvimento de Sistemas — UNICSUL (2026)  
+💼 Mais de 2 anos de experiência em suporte técnico na Tech Mahindra.
+
+**Objetivo:** primeira oportunidade como Analista de Dados Jr, Analytics Engineer Jr ou Engenheiro de Dados Jr.
+
+---
+
+## 🛠️ Tecnologias e ferramentas
+
+### 📊 Análise de Dados
+
+<p>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+</p>
+
+### ☁️ Engenharia de Dados e Cloud
+
+<p>
+  <img src="https://img.shields.io/badge/dbt_Core-FF694B?style=for-the-badge&logo=dbt&logoColor=white" alt="dbt Core"/>
+  <img src="https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white" alt="BigQuery"/>
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white" alt="Looker Studio"/>
+</p>
+
+### 🔧 Desenvolvimento e versionamento
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+</p>
+
+---
 
 ## 🚀 Projetos em destaque
 
-### 📊 [Pipeline ELT de Desembolsos do BNDES](https://github.com/manntanfumu0/pipeline-desembolsos-bndes)
-Pipeline de ponta a ponta com dados públicos de desembolsos do BNDES.
+### 📊 Pipeline ELT — Desembolsos do BNDES
 
-- **Extração:** dados via API, com Python e Docker
-- **Armazenamento:** Google Cloud Storage
-- **Transformação:** BigQuery + dbt Core (camadas *staging* e *marts*, testes de qualidade e documentação)
-- **Entrega:** dashboard no Looker Studio
+[![BNDES Project](https://img.shields.io/badge/GitHub-Ver%20Projeto-181717?style=flat&logo=github)](https://github.com/manntanfumu0/pipeline-desembolsos-bndes)
 
-`Python` `Docker` `GCP` `BigQuery` `dbt` `Looker Studio`
+Pipeline de dados de ponta a ponta utilizando dados públicos de desembolsos do Banco Nacional de Desenvolvimento Econômico e Social (BNDES).
 
-### 💳 [Análise de Risco de Crédito (Credit Card Analysis)](https://github.com/manntanfumu0/credit-card-analysis)
-Análise exploratória e modelagem para entender o que influencia a aprovação de crédito.
+**Principais etapas:**
 
-- Preparação e tratamento dos dados
-- Análise do perfil dos clientes e padrões associados à aprovação
-- Modelos de Machine Learning para previsão de aprovação
-- Em evolução: avaliação com métricas de classificação e investigação dos fatores que pesam nas decisões
+- **Extração:** coleta de dados via API utilizando Python.
+- **Containerização:** execução do processo com Docker.
+- **Armazenamento:** Google Cloud Storage.
+- **Transformação:** BigQuery e dbt Core, com organização em camadas staging e marts.
+- **Qualidade:** testes e documentação dos modelos dbt.
+- **Visualização:** dashboard no Looker Studio.
 
-`Python` `Pandas` `EDA` `Machine Learning` `Jupyter`
+**Tecnologias:** Python · Docker · GCP · BigQuery · dbt Core · Looker Studio.
 
+### 💳 Credit Approval Analytics — Análise de Risco de Crédito
 
-## 💼 Experiência
+[![Credit Project](https://img.shields.io/badge/GitHub-Ver%20Projeto-181717?style=flat&logo=github)](https://github.com/manntanfumu0/credit-card-analysis)
 
-**Suporte técnico, Tech Mahindra (+2 anos):** cerca de 190 chamados por mês com 99% de eficiência. Experiência em investigar problemas na origem, cumprir SLAs e explicar tecnologia para públicos não técnicos.
+Projeto de análise de dados e Machine Learning voltado à investigação de padrões relacionados à aprovação de crédito.
 
+**Principais etapas:**
 
-## 🎯 O que estou construindo agora
+- Preparação, inspeção e tratamento dos dados.
+- Análise Exploratória de Dados (EDA).
+- Investigação do perfil dos clientes e de variáveis associadas à aprovação.
+- Análise de renda, histórico de inadimplência e comportamento dos clientes.
+- Construção de modelo de classificação para previsão de aprovação de crédito.
+- Avaliação do desempenho do modelo por métricas de classificação.
 
-- Aprofundando a avaliação do modelo de crédito (métricas, desempenho e interpretação dos fatores)
-- Evoluindo a documentação e os testes de qualidade no dbt
-- Estudando inglês para comunicação técnica no trabalho
+**Tecnologias:** Python · Pandas · SQL · PostgreSQL · Power BI · Machine Learning · Jupyter Notebook.
+
+*Projeto em desenvolvimento: aprofundamento da avaliação do modelo, análise dos erros de classificação e interpretação das variáveis relevantes.*
+
+---
+
+## 💼 Experiência profissional
+
+**Tech Mahindra — Suporte Técnico**
+
+- Mais de 2 anos de experiência em suporte técnico.
+- Média de aproximadamente 190 chamados atendidos por mês.
+- 99% de eficiência.
+- Investigação e resolução de problemas técnicos.
+- Cumprimento de SLAs e comunicação com públicos não técnicos.
+
+Essa experiência fortaleceu minhas habilidades de resolução de problemas, análise de causas e comunicação, competências que também aplico no trabalho com dados.
+
+---
+
+## 📚 Atualmente estudando e desenvolvendo
+
+- Machine Learning aplicado à análise de risco de crédito.
+- Avaliação de modelos de classificação.
+- SQL e análise de dados.
+- Modelagem dimensional e boas práticas de Analytics Engineering.
+- dbt Core, testes e qualidade de dados.
+- Inglês para comunicação técnica.
+
+---
+
+## 📫 Vamos conversar?
+
+Estou aberto a oportunidades e conexões na área de Dados.
+
+<p>
+  <a href="mailto:manuelntanfumu0@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Entre%20em%20contato-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/manntanfumu0">
+    <img src="https://img.shields.io/badge/GitHub-Acesse%20meus%20projetos-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+</p>
+
+📍 São Paulo, Brasil | Híbrido ou remoto.
+
+---
+
+<p align="center">
+  <i>Transformando dados em informação, e informação em decisões.</i>
+</p>
